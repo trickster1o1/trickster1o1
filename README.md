@@ -1,4 +1,4 @@
-# [![Nischal Tuladhar bringing Your Vision to reality](https://pbs.twimg.com/tweet_video_thumb/FF8ePeUVUAEgMUM?format=jpg&name=large)](https://tricksterweb.netlify.app)
+# [![Nischal Tuladhar bringing Your Vision to reality](https://miro.medium.com/max/1400/0*eIhVp0KXrXSSHORN.gif)](https://tricksterweb.netlify.app)
 
 <h1 align="center">
   Trickster Creation
