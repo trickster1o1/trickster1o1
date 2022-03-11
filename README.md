@@ -4,5 +4,5 @@
   Trickster Creation
 </h1>
 <h3 align="center">
-  This is my Portfolio which aint good coz i'm here to bring your vision into reality not mint o.0!
+  This is my Portfolio which aint good coz i'm here to bring your vision into reality not mine o.0!
 </h3>
