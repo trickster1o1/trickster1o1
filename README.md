@@ -32,7 +32,7 @@ If you got any vision do ping me!<br>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickster1o1&show_icons=true&locale=en&layout=compact" alt="trickster1o1" />
-  <br><br>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trickster1o1&show_icons=true&locale=en" alt="trickster1o1" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trickster1o1&" alt="trickster1o1" /></p>
   
