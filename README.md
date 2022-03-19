@@ -11,7 +11,7 @@ If you got any vision do ping me!<br>
    I wont be able to bring it to reality but to virtuality I sure can 0_0
 </div>
 <div align='center'>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=trickster1o1&label=Profile%20views&color=0e75b6&style=flat" alt="trickster1o1" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=trickster1o1&label=Profile%20views&color=0e75b6&style=flat" alt="trickster1o1" /> </p>-->
 <p align="center"> <a href="https://twitter.com/_trick5t3r_" target="blank"><img src="https://img.shields.io/twitter/follow/_trick5t3r_?logo=twitter&style=for-the-badge" alt="_trick5t3r_" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
