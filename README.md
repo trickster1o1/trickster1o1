@@ -15,7 +15,7 @@ If you got any vision do ping me!<br>
 <p align="center"> <a href="https://twitter.com/_trick5t3r_" target="blank"><img src="https://img.shields.io/twitter/follow/_trick5t3r_?logo=twitter&style=for-the-badge" alt="_trick5t3r_" /></a> </p>
 <h3 align="center">Some of my works:</h3>
 <p align="center">
-<a href='https://secnepal.org' target='__blank'>Secnepal.org</a>
+<a href='https://secnepal.org' target=__blank >Secnepal.org</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
