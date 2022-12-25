@@ -7,7 +7,7 @@
 <h3>
   Here is my BLOG about the time I started CODING!<br>
 </h3>
-If you got any vision do ping me !<br>
+If you got any vision do ping me!<br>
    I wont be able to bring it to reality but to virtuality I sure can 0_0
 </div>
 <div align='center'>
