@@ -6,6 +6,7 @@
 <div align="center" >
 <h3>
   Here is my BLOG about the time I started CODING!<br>
+  (Click on the GIF above to view it) <br>
 </h3>
 If you got any vision do ping me!<br>
    I wont be able to bring it to reality but to virtuality I sure can 0_0
