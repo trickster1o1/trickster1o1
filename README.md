@@ -17,7 +17,7 @@ If you got any vision do ping me!<br>
 <h3 align="center">Some of my works:</h3>
 <p align="center">
   <a href='https://secnepal.org' target='_blank' ><img src='https://upload.wikimedia.org/wikipedia/commons/0/04/S-Bahn-Logo_Salzburg.png' alt='SEC Nepal' width='50px' height='50px' title='SEC Nepal' /></a>
-  <a href='https://vastuhotel.com' target='_blank' ><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' width='50px' height='50px' title='Vastu Hotel' /></a>
+  <a href='https://vastuhotel.com' target='_blank' ><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
   <a href='https://jawharainvest.com' target='_blank' ><img src='https://jawharainvest.com/static/media/mainLogo.1d9fd86241cc6668ffe4.png' alt='Jawhara Invest Company' width='50px' height='50px' title='Jawhara Invest' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
