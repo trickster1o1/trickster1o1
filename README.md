@@ -9,7 +9,7 @@
   (Click on the GIF above to view it) <br>
 </h3>
 If you got any vision do ping me!<br>
-   I wont be able to bring it to reality but to virtuality I sure can 0_0
+   I wont be able to bring it to reality but to virtuality I sure can 0_0 
 </div>
 <div align='center'>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trickster1o1&label=Profile%20views&color=0e75b6&style=flat" alt="trickster1o1" /> </p>
