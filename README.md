@@ -16,7 +16,7 @@ If you got any vision do ping me!<br>
 <p align="center"> <a href="https://twitter.com/_trick5t3r_" target="blank"><img src="https://img.shields.io/twitter/follow/_trick5t3r_?logo=twitter&style=for-the-badge" alt="_trick5t3r_" /></a> </p>
 <h3 align="center">Some of my works:</h3>
 <p align="center">
-  <a href='https://secnepal.org' target='_blank' ><img src='https://upload.wikimedia.org/wikipedia/commons/0/04/S-Bahn-Logo_Salzburg.png' alt='SEC Nepal' width='50px' height='50px' title='SEC Nepal' /></a>
+  <a href='https://secnepal.org' target='_blank'  rel="noreferrer"><img src='https://upload.wikimedia.org/wikipedia/commons/0/04/S-Bahn-Logo_Salzburg.png' alt='SEC Nepal' width='50px' height='50px' title='SEC Nepal' /></a>
   <a href='https://vastuhotel.com' target='_blank' ><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
   <a href='https://jawharainvest.com' target='_blank' ><img src='https://jawharainvest.com/static/media/mainLogo.1d9fd86241cc6668ffe4.png' alt='Jawhara Invest Company' height='50px' title='Jawhara Invest' /></a>
   <a href='https://pacificeng.com.np' target='_blank' ><img src='https://pacificeng.com.np/wp-content/uploads/2020/01/logo.png' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
