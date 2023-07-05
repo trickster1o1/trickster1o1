@@ -22,7 +22,8 @@ If you got any vision do ping me!<br>
   <a href='https://pacificeng.com.np' target='_blank' ><img src='https://pacificeng.com.np/wp-content/uploads/2020/01/logo.png' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
   <a href='https://chaingedigital.com.np' target='_blank' ><img src='https://chaingedigital.com.np/static/media/logo.0e2f3c1a214f6bb135f6.jpg' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
   <a href='https://avaninepal.com' target='_blank' >
-    <img src='https://avaninepal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favani_logo.3f4c62aa.jpg&w=64&q=75' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a>
+    <img src='https://avaninepal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favani_logo.3f4c62aa.jpg&w=64&q=75' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br />
+  <a href='https://shivatravels.com.np' target='_blank' ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
