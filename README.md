@@ -24,6 +24,8 @@ If you got any vision do ping me!<br>
   <a href='https://avaninepal.com' target='_blank' >
     <img src='https://avaninepal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favani_logo.3f4c62aa.jpg&w=64&q=75' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br><br>
   <a href='https://shivatravels.com.np' target='_blank' ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
+  <a href='https://nprugs.com' target='_blank' ><img src='https://nprugs.com/wp-content/uploads/2024/01/main_logo.webp' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
+  <a href='https://sqceducation.com' target='_blank' ><img src='https://sqceducation.com/uploads/setting/1674887657-M2MEcVOGUj.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
