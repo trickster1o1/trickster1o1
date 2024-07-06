@@ -20,7 +20,7 @@ If you got any vision do ping me!<br>
   <a href='https://vastuhotel.com' target='_blank' ><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
   <a href='https://jawharainvest.com' target='_blank' ><img src='https://jawharainvest.com/static/media/mainLogo.1d9fd86241cc6668ffe4.png' alt='Jawhara Invest Company' height='50px' title='Jawhara Invest' /></a>
   <a href='https://pacificeng.com.np' target='_blank' ><img src='https://pacificeng.com.np/wp-content/uploads/2020/01/logo.png' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
-  <a href='https://chaingedigital.com.np' target='_blank' ><img src='http://chaingedigital.com.np/static/media/logo.0e2f3c1a214f6bb135f6.jpg' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
+  <a href='https://chaingedigital.com.np' target='_blank' ><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IfI53dQxTQanMtsp8Pqo1-S1l4Y-x0CE0g&s' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
   <a href='https://avaninepal.com' target='_blank' >
     <img src='https://avaninepal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favani_logo.3f4c62aa.jpg&w=64&q=75' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br><br>
   <a href='https://shivatravels.com.np' target='_blank' ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
