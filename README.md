@@ -17,16 +17,16 @@ If you got any vision do ping me!<br>
 <h3 align="center">Some of my works:</h3>
 <p align="center">
 <a href='https://secnepal.org' target='_blank' rel="noopener noreferrer"><img src='https://upload.wikimedia.org/wikipedia/commons/0/04/S-Bahn-Logo_Salzburg.png' alt='SEC Nepal' width='50px' height='50px' title='SEC Nepal' /></a>
-  <a href='https://vastuhotel.com' target='_blank' ><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
-  <a href='https://jawharainvest.com' target='_blank' ><img src='https://www.nischaltuladhar.com.np/static/media/jawhara.1d9fd86241cc6668ffe4.png' alt='Jawhara Invest Company' height='50px' title='Jawhara Invest' /></a>
-  <a href='https://pacificeng.com.np' target='_blank' ><img src='https://media.licdn.com/dms/image/C560BAQHRDTd_q8YRfg/company-logo_200_200/0/1630567379142/pacific_engineering_pvt_ltd_logo?e=2147483647&v=beta&t=h8GqdS2VlcUU9b6AMrYJUoEM23EbcykJx39n6gUCgTw' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
-  <a href='https://chaingedigital.com.np' target='_blank' ><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IfI53dQxTQanMtsp8Pqo1-S1l4Y-x0CE0g&s' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
-  <a href='https://avaninepal.com' target='_blank' >
+  <a href='https://vastuhotel.com' target='_blank' rel="noopener noreferrer"><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
+  <a href='https://jawharainvest.com' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/jawhara.1d9fd86241cc6668ffe4.png' alt='Jawhara Invest Company' height='50px' title='Jawhara Invest' /></a>
+  <a href='https://pacificeng.com.np' target='_blank' rel="noopener noreferrer" ><img src='https://media.licdn.com/dms/image/C560BAQHRDTd_q8YRfg/company-logo_200_200/0/1630567379142/pacific_engineering_pvt_ltd_logo?e=2147483647&v=beta&t=h8GqdS2VlcUU9b6AMrYJUoEM23EbcykJx39n6gUCgTw' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
+  <a href='https://chaingedigital.com.np' target='_blank' rel="noopener noreferrer" ><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IfI53dQxTQanMtsp8Pqo1-S1l4Y-x0CE0g&s' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
+  <a href='https://avaninepal.com' target='_blank' rel="noopener noreferrer" >
     <img src='https://thebrandnepal.com/storage/1019/1654508226avani-logo.jpg' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br><br>
-  <a href='https://shivatravels.com.np' target='_blank' ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
-  <a href='https://nprugs.com' target='_blank' ><img src='https://nprugs.com/wp-content/uploads/2024/01/main_logo.webp' alt='NP Rugs' height='50px' title='NP Rugs' /></a>
-  <a href='https://sqceducation.com' target='_blank' ><img src='https://seeklogo.com/images/A/apple-books-logo-8EECFC8795-seeklogo.com.png' alt='SQCEducation' height='50px' title='SQCEducation' /></a>
-   <a href='https://honestforwarder.com' target='_blank' ><img src='https://media.licdn.com/dms/image/v2/C510BAQFh-z2b5p0jcw/company-logo_200_200/company-logo_200_200/0/1630592536494/honest_forwarder_logo?e=2147483647&v=beta&t=Van-DpkCOOeFDw8-k99SrYkKWnTDT3fJ6Y4v6eCXDmI' alt='Honest Forwarder' height='50px' title='Honest Forwarder' /></a>
+  <a href='https://shivatravels.com.np' target='_blank' rel="noopener noreferrer" ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
+  <a href='https://nprugs.com' target='_blank' rel="noopener noreferrer" ><img src='https://nprugs.com/wp-content/uploads/2024/01/main_logo.webp' alt='NP Rugs' height='50px' title='NP Rugs' /></a>
+  <a href='https://sqceducation.com' target='_blank' rel="noopener noreferrer" ><img src='https://seeklogo.com/images/A/apple-books-logo-8EECFC8795-seeklogo.com.png' alt='SQCEducation' height='50px' title='SQCEducation' /></a>
+   <a href='https://honestforwarder.com' target='_blank' rel="noopener noreferrer" ><img src='https://media.licdn.com/dms/image/v2/C510BAQFh-z2b5p0jcw/company-logo_200_200/company-logo_200_200/0/1630592536494/honest_forwarder_logo?e=2147483647&v=beta&t=Van-DpkCOOeFDw8-k99SrYkKWnTDT3fJ6Y4v6eCXDmI' alt='Honest Forwarder' height='50px' title='Honest Forwarder' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
