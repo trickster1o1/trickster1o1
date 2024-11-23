@@ -26,6 +26,7 @@ If you got any vision do ping me!<br>
   <a href='https://shivatravels.com.np' target='_blank' ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
   <a href='https://nprugs.com' target='_blank' ><img src='https://nprugs.com/wp-content/uploads/2024/01/main_logo.webp' alt='NP Rugs' height='50px' title='NP Rugs' /></a>
   <a href='https://sqceducation.com' target='_blank' ><img src='https://seeklogo.com/images/A/apple-books-logo-8EECFC8795-seeklogo.com.png' alt='SQCEducation' height='50px' title='SQCEducation' /></a>
+   <a href='https://honestforwarder.com' target='_blank' ><img src='https://media.licdn.com/dms/image/v2/C510BAQFh-z2b5p0jcw/company-logo_200_200/company-logo_200_200/0/1630592536494/honest_forwarder_logo?e=2147483647&v=beta&t=Van-DpkCOOeFDw8-k99SrYkKWnTDT3fJ6Y4v6eCXDmI' alt='Honest Forwarder' height='50px' title='Honest Forwarder' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
