@@ -22,7 +22,7 @@ If you got any vision do ping me!<br>
   <a href='https://pacificeng.com.np' target='_blank' ><img src='https://media.licdn.com/dms/image/C560BAQHRDTd_q8YRfg/company-logo_200_200/0/1630567379142/pacific_engineering_pvt_ltd_logo?e=2147483647&v=beta&t=h8GqdS2VlcUU9b6AMrYJUoEM23EbcykJx39n6gUCgTw' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
   <a href='https://chaingedigital.com.np' target='_blank' ><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IfI53dQxTQanMtsp8Pqo1-S1l4Y-x0CE0g&s' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
   <a href='https://avaninepal.com' target='_blank' >
-    <img src='https://avaninepal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favani_logo.3f4c62aa.jpg&w=64&q=75' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br><br>
+    <img src='https://thebrandnepal.com/storage/1019/1654508226avani-logo.jpg' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br><br>
   <a href='https://shivatravels.com.np' target='_blank' ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
   <a href='https://nprugs.com' target='_blank' ><img src='https://nprugs.com/wp-content/uploads/2024/01/main_logo.webp' alt='NP Rugs' height='50px' title='NP Rugs' /></a>
   <a href='https://sqceducation.com' target='_blank' ><img src='https://seeklogo.com/images/A/apple-books-logo-8EECFC8795-seeklogo.com.png' alt='SQCEducation' height='50px' title='SQCEducation' /></a>
