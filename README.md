@@ -28,6 +28,7 @@ If you got any vision do ping me!<br>
   <a href='https://sqceducation.com' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/sqc.0a02255b2514df4a4d3b.png' alt='SQCEducation' height='50px' title='SQCEducation' /></a>
   <a href='https://honestforwarder.com' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/honest.9d0ae03da44692e6444c.png' alt='Honest Forwarder' height='50px' title='Honest Forwarder' /></a>
   <a href='https://aaryatravel.com/' target='_blank' rel="noopener noreferrer" ><img src='https://aaryatravel.com/assets/image/logo-aarya.png' alt='Aarya Village Travel Pvt. Ltd.' height='50px' title='Aarya Village Travel Pvt. Ltd.' /></a>
+  <a href='https://aaryatm.com/' target='_blank' rel="noopener noreferrer" ><img src='https://office.aaryatm.com.np/user_uploads/website_files/setup_images/164793357276.jpeg' alt='Aarya Technology And Management' height='50px' title='Aarya Technology And Management' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
