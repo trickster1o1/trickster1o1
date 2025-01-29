@@ -24,7 +24,7 @@ If you got any vision do ping me!<br>
   <a href='https://avaninepal.com' target='_blank' rel="noopener noreferrer" >
     <img src='https://thebrandnepal.com/storage/1019/1654508226avani-logo.jpg' alt='Avani Nepal' height='50px' title='Avani Nepal' /></a> <br><br>
   <a href='https://shivatravels.com.np' target='_blank' rel="noopener noreferrer" ><img src='https://shivatravels.com.np/logoNeg.png' alt='Shiva Travels' height='50px' title='Shiva Travels Pvt. Ltd.' /></a>
-  <a href='https://nprugs.com' target='_blank' rel="noopener noreferrer" ><img src='https://nprugs.com/wp-content/uploads/2024/01/main_logo.webp' alt='NP Rugs' height='50px' title='NP Rugs' /></a>
+  <a href='https://nprugs.com' target='_blank' rel="noopener noreferrer" ><img src='https://nprugs.com/wp-content/uploads/2024/11/logo-small.webp' alt='NP Rugs' height='50px' title='NP Rugs' /></a>
   <a href='https://sqceducation.com' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/sqc.0a02255b2514df4a4d3b.png' alt='SQCEducation' height='50px' title='SQCEducation' /></a>
   <a href='https://honestforwarder.com' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/honest.9d0ae03da44692e6444c.png' alt='Honest Forwarder' height='50px' title='Honest Forwarder' /></a>
   <a href='https://aaryatravel.com/' target='_blank' rel="noopener noreferrer" ><img src='https://aaryatravel.com/assets/image/logo-aarya.png' alt='Aarya Village Travel Pvt. Ltd.' height='50px' title='Aarya Village Travel Pvt. Ltd.' /></a>
