@@ -30,7 +30,7 @@ If you got any vision do ping me!<br>
   <a href='https://aaryatravel.com/' target='_blank' rel="noopener noreferrer" ><img src='https://aaryatravel.com/assets/image/logo-aarya.png' alt='Aarya Village Travel Pvt. Ltd.' height='50px' title='Aarya Village Travel Pvt. Ltd.' /></a>
   <a href='https://aaryatm.com/' target='_blank' rel="noopener noreferrer" ><img src='https://office.aaryatm.com.np/user_uploads/website_files/setup_images/164793357276.jpeg' alt='Aarya Technology And Management' height='50px' title='Aarya Technology And Management' /></a>
  <a href='https://coatgenix.com/' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/coat.149fcd6e70fb5d5fe6f3.png' alt='Coatgenix' height='50px' title='Coatgenix' /></a>
-  <a href='https://codegenexis.com/' target='_blank' rel="noopener noreferrer" ><img src='https://media.licdn.com/dms/image/v2/D4D0BAQFct-upCAQ8eQ/company-logo_200_200/B4DZjcTNjoG8AI-/0/1756042681530/codegenexis_logo?e=1758758400&v=beta&t=gHF4ij-F_8aUG13fUm1pbJNxqu49B8B2qE8cbNFRYEk' height='50px' title='Coatgenix' /></a>
+  <a href='https://codegenexis.com/' target='_blank' rel="noopener noreferrer" ><img src='https://media.licdn.com/dms/image/v2/D4D0BAQFct-upCAQ8eQ/company-logo_200_200/B4DZjcTNjoG8AI-/0/1756042681530/codegenexis_logo?e=1758758400&v=beta&t=gHF4ij-F_8aUG13fUm1pbJNxqu49B8B2qE8cbNFRYEk' height='50px' title='CodeGenexis | Your Vision into Reality' /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
