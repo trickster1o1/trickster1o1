@@ -17,7 +17,7 @@ If you got any vision do ping me!<br>
 <h3 align="center">Some of my works:</h3>
 <p align="center">
 <a href='https://secnepal.org' target='_blank' rel="noopener noreferrer nofollow"><img src='https://www.nischaltuladhar.com.np/static/media/secnepal.6ba4547e7b5fdbe95076.png' alt='SEC Nepal' width='50px' height='50px' title='SEC Nepal' /></a>
-  <a href='https://vastuhotel.com' target='_blank' rel="noopener noreferrer"><img src='https://vastuhotel.com/uploads/vastu_logo.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
+  <a href='https://vastuhotel.com' target='_blank' rel="noopener noreferrer"><img src='https://www.nischaltuladhar.com.np/static/media/vastu.c9a956010c61744a617f.png' alt='Vastu Hotel' height='50px' title='Vastu Hotel' /></a>
   <a href='https://jawharainvest.com' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/jawhara.1d9fd86241cc6668ffe4.png' alt='Jawhara Invest Company' height='50px' title='Jawhara Invest' /></a>
   <a href='https://pacificeng.com.np' target='_blank' rel="noopener noreferrer" ><img src='https://www.nischaltuladhar.com.np/static/media/pacific.f152c08597959e4ec18f.png' alt='Pacific Engineering' height='50px' title='Pacific Engineering Co. Pvt. Ltd.' /></a>
   <a href='https://chaingedigital.com.np' target='_blank' rel="noopener noreferrer" ><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IfI53dQxTQanMtsp8Pqo1-S1l4Y-x0CE0g&s' alt='Chainge Digital' height='50px' title='Chainge Digital Pvt. Ltd.' /></a>
